@@ -18,10 +18,15 @@ img {
 }
 
 .title {
-  padding-bottom: 5px;
+  padding-bottom: 10px;
 }
 
 .description {
   font-family: 'Vollkorn', serif;
+  font-size: 120%;
+}
+
+.bengali {
+  font-family: 'Baloo Da 2', cursive;
   font-size: 120%;
 }
