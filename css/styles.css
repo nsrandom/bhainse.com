@@ -1,0 +1,23 @@
+body {
+  padding-top: 60px;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+#coo {
+  width: 60%;
+  max-width: 600px;
+  margin-bottom: 60px;
+}
+
+.title {
+  padding-bottom: 5px;
+}
+
+.description {
+  font-family: 'Vollkorn', serif;
+  font-size: 120%;
+}
