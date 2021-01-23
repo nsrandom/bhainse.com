@@ -10,6 +10,7 @@ div {
 #coo {
   width: 60%;
   max-width: 600px;
+  max-height: : 600px;
   margin-bottom: 60px;
 }
 
